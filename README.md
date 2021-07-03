@@ -11,15 +11,15 @@
 This project is an asynchronous web app that uses Web API and zip code to dynamically update the UI by the Temperature and users feelings Today. 
 
 ## Project Files
-> weather-journal-app/
- >> server.js
- >> package-lock
- >> node_modules/
-      >>> ..... 
- >> website/ 
-      >>> app.js
-      >>> index.html
-      >>> style.css
+weather-journal-app/
+ * server.js
+ * package-lock
+ * node_modules/
+      * ..... 
+ * website/ 
+      * app.js
+      * index.html
+      * style.css
      
 ## Implementation
 * Make server ready to use post and get routes needed in server.js.
