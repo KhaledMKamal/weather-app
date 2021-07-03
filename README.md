@@ -12,14 +12,14 @@ This project is an asynchronous web app that uses Web API and zip code to dynami
 
 ## Project Files
 weather-journal-app/
-└── server.js
-└── package-lock
-└── node_modules/
-     └── ..... 
-└── website/ 
-     └── app.js
-     └── index.html
-     └── style.css
+ └── server.js
+ └── package-lock
+ └── node_modules/
+      └── ..... 
+ └── website/ 
+      └── app.js
+      └── index.html
+      └── style.css
      
 ## Implementation
 * Make server ready to use post and get routes needed in server.js.
