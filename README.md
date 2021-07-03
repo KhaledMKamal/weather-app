@@ -14,9 +14,9 @@ This project is an asynchronous web app that uses Web API and zip code to dynami
 weather-journal-app/
 └── server.js
 └── package-lock
-└──  node_modules
+└── node_modules
      └── ..... 
-└──  website 
+└── website 
      └── app.js
      └── index.html
      └── style.css
